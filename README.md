@@ -11,12 +11,17 @@
 
 ### ✨ Features
 
-- Upload credit card transaction data directly through the interface  
-- Predict fraudulent vs. legitimate transactions in real-time  
-- Display model precision, recall, and F1 score for evaluation  
-- Show confusion matrix and ROC curve with interactive charts  
-- Visualize most influential features contributing to fraud prediction  
-- Sleek, interactive UI powered by Streamlit and Plotly  
+- Upload-Free Interactive Dashboard
+- Supervised Learning (Logistic Regression)  
+- Unsupervised Learning (Isolation Forest)
+- Side-by-Side Model Comparison Mode
+- Real-Time Accuracy & Metrics Display 
+- Classification Report Visualization (Precision, Recall, F1-Score)  
+- Feature Importance Bar Chart (Logistic Regression)  
+- Custom-Styled, Responsive Buttons  
+- Link to Full Jupyter Notebook  
+- Optimized Model Loading with Streamlit Caching  
+- Minimal Latency When Switching Between Modes
 
 ---
 
