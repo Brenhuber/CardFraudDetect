@@ -11,7 +11,6 @@
 
 ### ✨ Features
 
-- Upload-Free Interactive Dashboard
 - Supervised Learning (Logistic Regression)  
 - Unsupervised Learning (Isolation Forest)
 - Side-by-Side Model Comparison Mode
